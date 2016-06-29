@@ -1,7 +1,8 @@
 # r5flames
 
-[View before](https://buma.github.io/r5flames/r5_before.html)
-This is with short-circuited angle calculations:[View after](https://buma.github.io/r5flames/r5_after.html)
+[View before](https://buma.github.io/r5flames/r5_before.html) ~20 seconds
+This is with short-circuited angle calculations:[View after](https://buma.github.io/r5flames/r5_after.html) 
+[angles](https://buma.github.io/r5flames/flame_with_angles.html) ~8 seconds
 
 How to [interpret it](http://www.brendangregg.com/blog/2014-06-12/java-flame-graphs.html)
 
