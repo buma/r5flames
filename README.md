@@ -1,6 +1,7 @@
 # r5flames
 
-[View](https://buma.github.io/r5flames/r5_before.html)
+[View before](https://buma.github.io/r5flames/r5_before.html)
+This is with short-circuited angle calculations:[View after](https://buma.github.io/r5flames/r5_after.html)
 
 How to [interpret it](http://www.brendangregg.com/blog/2014-06-12/java-flame-graphs.html)
 
